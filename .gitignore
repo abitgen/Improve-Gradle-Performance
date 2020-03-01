@@ -1,5 +1,7 @@
 .gradle
 /build/
+/android-kotlin/build
+.idea/caches
 
 # Ignore Gradle GUI config
 gradle-app.setting
