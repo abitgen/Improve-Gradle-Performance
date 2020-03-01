@@ -1,0 +1,3 @@
+rootProject.name = 'Improve-Gradle-Performance'
+include(":android-kotlin")
+
